@@ -1,0 +1,19 @@
+{
+  "name": "formula-lookup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FormulaPages/lookup.git"
+  },
+  "author": "Peter Moresi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FormulaPages/lookup/issues"
+  },
+  "homepage": "https://github.com/FormulaPages/lookup#readme"
+}
